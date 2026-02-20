@@ -1,4 +1,3 @@
-
 package vic.vupay;
 
 import java.util.Scanner;
