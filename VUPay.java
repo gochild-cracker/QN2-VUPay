@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 
 package vic.vupay;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Heifer
- */
+
 public class VUPay {
 
     public static void main(String[] args) {
